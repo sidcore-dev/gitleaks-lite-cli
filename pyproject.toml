@@ -8,12 +8,12 @@ version = "1.0.0"
 description = "Heuristically scan files or a directory for strings that look like common secrets, using regex and entropy checks only."
 readme = "README.md"
 requires-python = ">=3.8"
-license = { text = "All Rights Reserved" }
+license = { text = "MIT" }
 authors = [{ name = "sidcore-dev" }]
 keywords = ["secrets", "security", "cli", "devtools"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: Other/Proprietary License",
+    "License :: OSI Approved :: MIT License",
     "Environment :: Console",
     "Topic :: Security",
 ]

@@ -18,6 +18,11 @@ classifiers = [
     "Topic :: Security",
 ]
 
+[project.urls]
+Homepage = "https://github.com/sidcore-dev/gitleaks-lite-cli"
+Repository = "https://github.com/sidcore-dev/gitleaks-lite-cli"
+Issues = "https://github.com/sidcore-dev/gitleaks-lite-cli/issues"
+
 [project.scripts]
 gitleaks-lite-cli = "gitleaks_lite_cli.cli:main"
 
